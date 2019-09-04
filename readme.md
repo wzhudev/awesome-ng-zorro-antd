@@ -22,7 +22,8 @@
 
 ## Tutorials
 
-- [Official Tutorial](https://github.com/NG-ZORRO/today-ng-steps). Chinese only. For version 7.x.
+- 🇨🇳 [Official Tutorial](https://github.com/NG-ZORRO/today-ng-steps). For version 7.x.
+- 🇨🇳 [Angular 元件庫 NG-ZORRO 基礎入門](https://ithelp.ithome.com.tw/articles/10213104). A series of tutorials by [@simplejason](https://github.com/simplejason), who is a maintainer of ng-zorro-antd.
 
 ## Ecosystem
 
@@ -51,7 +52,7 @@
 
 ## Videos
 
-- [How to Build a Component Library from Zero](https://t.co/sZF4nhNld1?amp=1) (Chinese). [@vthinkxie](https://github.com/vthinkxie) delivered a speech about how to build a component library at ngChina 2018.
+- 🇨🇳 [How to Build a Component Library from Zero](https://t.co/sZF4nhNld1?amp=1). [@vthinkxie](https://github.com/vthinkxie) (original author and maintainer of ng-zorro-antd) delivered a speech about how to build a component library at ngChina 2018.
 
 ## Contribute
 
