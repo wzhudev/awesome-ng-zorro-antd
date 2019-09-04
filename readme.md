@@ -2,6 +2,9 @@
 
 > Awesome lists about ng-zorro-antd. Tutorials, open source projects on top of it, etc.
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/9fc690426bf04fad984b5a71424ecafc02528f51/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f544231544646614841766f4b31526a535a467758586369434658612d3130362d3132302e737667">
+</div>
 
 ## Contents
 
@@ -10,6 +13,7 @@
 - [Ecosystem](#Ecosystem)
 - [Projects](#Projects)
 - [Videos](#Videos)
+- [Discussions & Community](#Discussions-and-Community)
 
 ## Official Websites
 
@@ -53,6 +57,12 @@
 ## Videos
 
 - 🇨🇳 [How to Build a Component Library from Zero](https://t.co/sZF4nhNld1?amp=1). [@vthinkxie](https://github.com/vthinkxie) (original author and maintainer of ng-zorro-antd) delivered a speech about how to build a component library at ngChina 2018.
+
+## Discussions and Community
+
+- 🇺🇸🇬🇧 [Gitter](https://gitter.im/ng-zorro/ng-zorro-antd).
+- 🇨🇳 DingTalk, search with this ID **21718406** in [DingTalk](https://www.dingtalk.com/).
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/ng-zorro-antd).
 
 ## Contribute
 
