@@ -9,6 +9,7 @@
 - [Tutorials](#Tutorials)
 - [Ecosystem](#Ecosystem)
 - [Projects](#Projects)
+- [Videos](#Videos)
 
 ## Official Websites
 
@@ -47,6 +48,10 @@
 - [zorro-sharper](https://github.com/1-2-3/zorro-sharper). Light-weight directives that power up ng-zorro-antd.
 
 ## Projects
+
+## Videos
+
+- [How to Build a Component Library from Zero](https://t.co/sZF4nhNld1?amp=1) (Chinese). [@vthinkxie](https://github.com/vthinkxie) delivered a speech about how to build a component library at ngChina 2018.
 
 ## Contribute
 
