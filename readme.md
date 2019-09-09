@@ -34,6 +34,7 @@
 ### Admin
 
 - [ng-alain](https://github.com/ng-alain/ng-alain). Admin panel front-end framework.
+- [ng-ant-design-pro-platform](https://github.com/superbeetle/ng-ant-design-pro-platform). It provides some platform templates.
 
 ### Templates
 
@@ -67,3 +68,7 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Disclaimer
+
+Though this repository is maintained by a member of NG-ZORRO, third party libraries here should not be considered as "official recommended". Use them at your own risk.
