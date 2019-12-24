@@ -39,6 +39,7 @@
 ### Templates
 
 - [ng-zorro-universal-starter](https://github.com/NG-ZORRO/ng-zorro-universal-starter). A boilerplate from which you can build an website that supports Angular Universal.
+- [superbeetle/ng-ant-design-pro-platform](https://github.com/superbeetle/ng-ant-design-pro-platform). Templates.
 
 ### Frameworks
 
